@@ -29,7 +29,7 @@
       "integrity_requirement": "low",
       "max_severity": "critical"
     },  {
-      "asset_identifier": "bad22.com",
+      "asset_identifier": "bad23.com",
       "asset_type": "URL",
       "availability_requirement": "high",
       "confidentiality_requirement": "medium",

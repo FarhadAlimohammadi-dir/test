@@ -1,0 +1,21 @@
+  {
+      "asset_identifier": "ai.planetart.com",
+      "asset_type": "URL",
+      "availability_requirement": "high",
+      "confidentiality_requirement": "medium",
+      "eligible_for_bounty": false,
+      "eligible_for_submission": true,
+      "instruction": "",
+      "integrity_requirement": "low",
+      "max_severity": "critical"
+    },  {
+      "asset_identifier": "farhad.com",
+      "asset_type": "URL",
+      "availability_requirement": "high",
+      "confidentiality_requirement": "medium",
+      "eligible_for_bounty": false,
+      "eligible_for_submission": true,
+      "instruction": "",
+      "integrity_requirement": "low",
+      "max_severity": "critical"
+    }
